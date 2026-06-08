@@ -1,3 +1,5 @@
+
+
 <h1 align="center">Hi 👋, I'm Ayush Kumar</h1>
 
 <h3 align="center">
@@ -8,16 +10,24 @@ Aspiring Machine Learning Engineer | Data Scientist | Data Analyst
 <img src="https://skillicons.dev/icons?i=python,java,git,github" />
 </p>
 
+<h3 align="center">📫 Connect With Me</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/ayush-kumar-32aab9306">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  &nbsp;
+  &nbsp;&nbsp;
   <a href="mailto:ayushkumar170305@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 </p>
+
+<p align="center">
+  <b>LinkedIn:</b> ayush-kumar-32aab9306 <br>
+  <b>Email:</b> ayushkumar170305@gmail.com
+</p>
+```
+
 
 ---
 
