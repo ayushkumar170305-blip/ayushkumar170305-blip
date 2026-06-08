@@ -102,20 +102,34 @@ Machine Learning workflow with experiment tracking, model management, and deploy
 * Software Development
 
 ---
+# 📊 GitHub Stats:
 
-## 📊 GitHub Stats
+![](https://github-readme-stats.shion.dev/api?username=ayushkumar170305-blip&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ayushkumar170305-blip&show_icons=true&theme=tokyonight" />
-</p>
+![](https://streak-stats.demolab.com/?user=ayushkumar170305-blip&theme=dark&hide_border=false)<br/>
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushkumar170305-blip&layout=compact&theme=tokyonight" />
-</p>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=ayushkumar170305-blip&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+## 🏆 GitHub Trophies
 
-<p align="center">
-<img src="https://streak-stats.demolab.com/?user=ayushkumar170305-blip&theme=tokyonight" />
-</p>
+![](https://github-profile-trophy.vercel.app/?username=ayushkumar170305-blip&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+
+
+### ✍️ Random Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+
+
+### 🔝 Top Contributed Repo
+
+![](https://github-contributor-stats.vercel.app/api?username=ayushkumar170305-blip&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+
+
+---
+
+[![](https://komarev.com/ghpvc/?username=ayushkumar170305-blip&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ---
 
